@@ -54,8 +54,8 @@ The chatbot uses three layers to prevent out-of-PDF answers:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/pdf-qa-chatbot.git
-cd pdf-qa-chatbot
+git clone https://github.com/siddhi123890/PDF-QA-CHATBOT.git
+cd PDF-QA-CHATBOT
 
 # Create virtual environment
 python -m venv venv
